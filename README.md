@@ -23,7 +23,7 @@
 
 <hr><strong>자격</strong>
 
-- Toeic Speaking TEST (LV5, 120) - 2021.03.07
+- Toeic Speaking TEST(LV5, 120) - 2021.03.07
 - 정보처리기사 - 2020.08.28
 - SQLD(SQL 개발자) - 2020.12.29
 - ADsP(데이터 분석 준전문가) - 2021.06.18
